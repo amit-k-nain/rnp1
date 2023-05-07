@@ -1,0 +1,23 @@
+{
+  "name": "parcel_blueprint",
+  "version": "1.0.0",
+  "description": "Node React Learning..",
+  "main": "index.js",
+  "scripts": {
+    "test": "testCommand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit-k-nain/rnp1.git"
+  },
+  "keywords": [
+    "node",
+    "react"
+  ],
+  "author": "Amit-K-Nain",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/amit-k-nain/rnp1/issues"
+  },
+  "homepage": "https://github.com/amit-k-nain/rnp1#readme"
+}
