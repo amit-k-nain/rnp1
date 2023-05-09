@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/amit-k-nain/rnp1/issues"
   },
-  "homepage": "https://github.com/amit-k-nain/rnp1#readme"
+  "homepage": "https://github.com/amit-k-nain/rnp1#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
