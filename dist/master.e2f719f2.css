@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'NotoSans';
-    src: url('../fonts/NotoSans-Black.ttf'); /* IE9 Compat Modes */
-    src: url('../fonts/NotoSans-Black.ttf')  format('truetype'), /* Safari, Android, iOS */
+    src: url('/NotoSans-Black.aecd3e1b.ttf'); /* IE9 Compat Modes */
+    src: url('/NotoSans-Black.aecd3e1b.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
 
 @font-face {
     font-family: 'NotoSans-Bold';
-    src: url('../fonts/NotoSans-Bold.ttf'); /* IE9 Compat Modes */
-    src: url('../fonts/NotoSans-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+    src: url('/NotoSans-Bold.ca51c5e5.ttf'); /* IE9 Compat Modes */
+    src: url('/NotoSans-Bold.ca51c5e5.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
 
 *,
