@@ -7,9 +7,11 @@ const StyledApp = styled.div`
 `;
 
 function App() {
-    <StyledApp>
-        Hello Amit Nain...
-    </StyledApp>
+    return(
+        <StyledApp>
+            Hello Amit Nain...
+        </StyledApp>
+    )
 }
 
 if(document.getElementById('react_root')){

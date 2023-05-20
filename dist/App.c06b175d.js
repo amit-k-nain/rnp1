@@ -31125,7 +31125,7 @@ function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && 
 function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 var StyledApp = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n\n"])));
 function App() {
-  /*#__PURE__*/_react.default.createElement(StyledApp, null, "Hello Amit Nain...");
+  return /*#__PURE__*/_react.default.createElement(StyledApp, null, "Hello Amit Nain...");
 }
 if (document.getElementById('react_root')) {
   _reactDom.default.render( /*#__PURE__*/_react.default.createElement(App, null), document.getElementById('react_root'));
